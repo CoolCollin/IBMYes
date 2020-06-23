@@ -1,3 +1,3 @@
 [submodule "v2ray-cloudfoundry"]
 	path = v2ray-cloudfoundry
-	url = https://github.com/CoolCollin/v2ray-cloudfoundry/tree/v2ray.git
+	url = https://github.com/CoolCollin/v2ray-cloudfoundry.git
